@@ -11,14 +11,14 @@ function M.get_colors(options)
 		base1 = "#E6E4DF",
 		base0 = "#FAF2EB",
 
-		light_orange = "#FA7D00", -- hsv(30, 100%, 98%)
-		light_yellow = "#FAFA00", -- hsv(60, 100%, 98%)
-		light_cyan = "#00FAFA", -- hsv(180, 100%, 98%)
-		light_green = "#00FA00", -- hsv(120, 100%, 98%)
-		light_blue = "#0000FA", -- hsv(240, 100%, 98%)
-		light_purple = "#A700FA", -- hsv(280, 100%, 98%)
-		light_pink = "#FA00A7", -- hsv(320, 100%, 98%)
-		light_red = "#FA0004", -- hsv(360, 100%, 98%)
+		light_orange = "#331A01", -- hsv(30, 98%, 20%)
+		light_yellow = "#333301", -- hsv(60, 98%, 20%)
+		light_cyan = "#013333", -- hsv(180, 98%, 20%)
+		light_green = "#012601", -- hsv(120, 98%, 15%)
+		light_blue = "#010126", -- hsv(240, 98%, 15%)
+		light_purple = "#1A0126", -- hsv(280, 98%, 15%)
+		light_pink = "#26011A", -- hsv(320, 98%, 15%)
+		light_red = "#260101", -- hsv(360, 98%, 15%)
 
 		orange = "#F27900", -- hsv(30, 100%, 95%)
 		yellow = "#F2F200", -- hsv(60, 100%, 95%)
