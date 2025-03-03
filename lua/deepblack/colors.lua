@@ -33,7 +33,7 @@ function M.get_colors(options)
 		muted = '#9893a5',
 	}
 	if options.low_blue_light then
-		colors.base7 = "#000000" -- hsv(00, 0%, 00%)
+		colors.base0 = "#FFFFFF" -- hsv(00, 0%, 00%)
 	end
 	return colors
 end
