@@ -2,7 +2,7 @@ local M = {}
 
 function M.get_colors(options)
 	local colors = {
-		base7 = "#1A1918",
+		base7 = "#000000",
 		base6 = "#595855",
 		base5 = "#807E79",
 		base4 = "#999791",
