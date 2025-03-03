@@ -13,7 +13,7 @@ function M.load()
 	vim.cmd([[hi clear]])
 
 	vim.g.colors_name = "deepblack"
-	vim.o.background = "light"
+	vim.o.background = "dark"
 	vim.o.termguicolors = true
 
 	local colors = require("deepblack.colors").get_colors(config.options)
