@@ -3,8 +3,8 @@ local M = {}
 function M.get_colors(options)
 	local colors = {
 		base7 = "#000000",
-		base6 = "#595855",
-		base5 = "#807E79",
+		base6 = "#1a1918",
+		base5 = "#595855",
 		base4 = "#999791",
 		base3 = "#B3B1AD",
 		base2 = "#CCCBC6",
